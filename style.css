@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #eef1ff;
+}
+
+/* Navbar */
+.title-name{
+    margin-left: 15px;
+    font-size: 34px;
+    color: white;
+}
+.logo{
+    width: 40.42px;
+    height: 51px;
+}
+.profile{
+    width: 51px;
+    height: 51px;
+}
+.navbar li a{
+    color: #ffffff;
+    font-size: 16px;
+    border-radius: 30px;
+}
+.navbar li a:hover{
+    color: black;
+    background-color: #ffffff;
+}
+.nav-item-2{
+    padding: 0 15px;
+    margin-top: 12px;
+}
+main img{
+    width: 68px;
+}
+
+.line{
+    border-top: 3px solid #d1d1d1;
+    margin-bottom: 20px;
+}
+.player-rank{
+    background-color: white;
+}
+main p{
+    font-size: 20px;
+}
+.player-name{
+    font-weight: 500;
+}
+
+.top-title{
+    font-size: 34px;
+    color: rgb(91, 104, 218);
+    padding: 30px 20px;
+}
+#img-blog {
+    width: 100%;
+}
+.card{
+    border: none;
+    padding: 20px 0;
+    /* padding-left: 50px; */
+}
+.card-body {
+    width: 200px;
+}
+.card-title{
+    font-size: 32px;
+    font-weight: 600;
+}
+
+footer .card {
+    border: none;
+    box-shadow: 0 0 15px rgb(238, 238, 238);
+}
+footer .row {
+    padding: 5px 35px;
+}
+footer .card-body {
+    width: 376px !important;
+}
+footer .card{
+    padding: 30px 25px;
+    height: 424px !important;
+    margin-bottom: 20px;
+}
+
+footer .card h5 {
+    font-size: 30px;
+}
+.star {
+    width: 20px;
+    
+}
+.rating {
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 10px;
+    margin-top: -1px;
+}
+.run-time {
+    background-color: #fff6f8;
+    width: 117px;
+    border-radius: 100px;
+    padding: 0px 16px;
+}
+.star-last:before{
+    content: "\f005";
+}
